@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/index.js",
+      "sha1": "22a9c23cb359d113350d3b0ebe3a1a49b14cd006"
+    },
+    {
+      "path": "src/assets/fonts/Jost-Black.ttf",
+      "sha1": "89d1e3d1c18465f17ff6c1f3c9e97661543c4177"
+    },
+    {
+      "path": "src/assets/fonts/Khand-Bold.ttf",
+      "sha1": "b0da2c37662f547f281f8e7b06dc2ed5feb28575"
+    },
+    {
+      "path": "src/assets/fonts/MightySlabW01-One.ttf",
+      "sha1": "e2a48d0e70d9e638869e606392df25157c936844"
+    },
+    {
+      "path": "src/assets/fonts/Mont-Regular.ttf",
+      "sha1": "14939f00b10e5c02664c07a82bacd430fab9c66e"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "src/assets/fonts/SFProDisplay-Medium.OTF",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "src/assets/fonts/SFProDisplay-Regular.OTF",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    }
+  ]
+}
